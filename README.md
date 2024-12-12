@@ -52,8 +52,6 @@
 
 ## Tech Stack
 
-<!--- # "Verify icons availability here https://github.com/tandpfun/skill-icons" -->
-
 [![My Skills](https://skillicons.dev/icons?i=php,laravel,mysql,bootstrap)](https://skillicons.dev)
 
 ## Getting Started
