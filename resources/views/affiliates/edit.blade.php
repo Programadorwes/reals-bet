@@ -1,0 +1,15 @@
+<x-layout>
+    <x-affiliates.form
+    :action="route('affiliates.update',
+    $affiliate->id)"
+    :name="$affiliate->name"
+    :cpf="$affiliate->cpf"
+    :birthdate="$affiliate->birthdate"
+    :email="$affiliate->email"
+    :phone="$affiliate->phone"
+    :address="$affiliate->address"
+    :city="$affiliate->city"
+    :state="$affiliate->state"
+    :update="true"
+    />
+</x-layout>
